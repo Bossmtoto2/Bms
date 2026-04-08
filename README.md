@@ -1,2 +1,2 @@
 # Bms
-Welcome to BMS service to deploy your robots
+Welcome to BMS service to deploy your bot
